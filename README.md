@@ -1,2 +1,3 @@
 # nav-practice
 How many navs can I make in 1 day?
+So far just one - simcha spot - but it was mighty satisfying! Let me choose another one to do...
