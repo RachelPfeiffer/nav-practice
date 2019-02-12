@@ -1,0 +1,6 @@
+const magnifier = document.querySelector('.magnifier');
+const searchbox = document.querySelector('.search-box');
+
+magnifier.addEventListener('click', function () {
+  searchbox.classList.toggle('hide');
+})
